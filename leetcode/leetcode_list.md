@@ -1,6 +1,10 @@
 # 基础算法精讲·题目汇总
 
 如何科学刷题：https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/
+
+![Uploading image.png…]()
+
+
 参考 [灵茶山艾府](https://space.bilibili.com/206214)。
 
 我制作了一系列算法教学视频，整理成合集[【基础算法精讲】](https://space.bilibili.com/206214/channel/collectiondetail?sid=842776)。以下是合集中的视频链接、配套题目和代码，代码包含 Python/Java/C++/Go 等多种语言。
