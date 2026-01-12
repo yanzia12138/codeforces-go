@@ -2,8 +2,6 @@
 
 如何科学刷题：https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/
 
-![Uploading image.png…]()
-
 
 参考 [灵茶山艾府](https://space.bilibili.com/206214)。
 
